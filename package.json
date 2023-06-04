@@ -1,0 +1,16 @@
+{
+  "name": "phantom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muneeb Sajjad",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^10.0.1",
+    "microsoft-cognitiveservices-speech-sdk": "^1.28.0",
+    "uuid": "^9.0.0"
+  }
+}
